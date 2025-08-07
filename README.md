@@ -1,2 +1,2 @@
-# belajardariyt
-Belajar Buat Web Dari Youtube
+# Welcome To My repositories 🌟
+This web using basic html and css, learning from youtube :)
